@@ -4,7 +4,7 @@ SEOTitle: Fiffy 的博客 | Fiffy Blog
 header-img: img/home-bg.jpg
 email: hallom4@126.com
 description: "Coder, gamer, and always learner."
-keyword: "算法, Fiffy, fiffy, 博客, 主机游戏, 人工智能, NLP"
+keyword: "算法, Fiffy, 博客, 主机游戏, NLP"
 url: "Fiffy-lin.github.io"              # your host, for absolute URL
 baseurl: ""                             # for example, '/blog' if your blog hosted on 'host/blog'
 
@@ -13,10 +13,10 @@ future: true
 
 # SNS settings
 RSS: false
-weibo_username:     huxpro
-zhihu_username:     huxpro
-github_username:    huxpro
-twitter_username:   huxpro
+weibo_username:     empty
+zhihu_username:     empty
+github_username:    empty
+twitter_username:   empty
 #facebook_username:  huxpro
 #linkedin_username:  firstname-lastname-idxxxx
 
@@ -78,7 +78,7 @@ ga_domain: huangxuan.me
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "Fiffy，初级炼丹师，主机玩家 <br> An AI/NLP dev & console gamer."
+sidebar-about-description: "dev & console gamer."
 # sidebar-avatar: /img/avatar-hux-ny.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 sidebar-avatar: /img/avatar.png
 

@@ -8,10 +8,10 @@ header-img: "img/post-bg-2015.jpg"
 tags: []
 ---
 
-看组里的肥羊和子中都有 Blog 了，我也来整一个。
+开了一个 Blog，不仅仅为了记录一些东西，还可以鼓励自己记录一些东西。
 
-希望把这个 Blog 做成一个好好写东西的地方，记录下工作学习生活日常；会逐步把本地写的一些东西搬上来。
+希望把这个 Blog 做成一个好好写东西的地方，记录下工作学习生活日常。
 
-模版来自[Hux Blog](https://github.com/Huxpro/huxpro.github.io)，托管在 Github Pages 上，非常感谢大佬的模版可以让我在一个小时内就搭建完成。
+模版来自[Hux Blog](https://github.com/Huxpro/huxpro.github.io)，托管在 Github Pages 上，非常感谢此模版，可以让我在一个小时内就搭建完成。
 
 Alright, thats it.
