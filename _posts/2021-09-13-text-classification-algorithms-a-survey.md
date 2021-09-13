@@ -115,11 +115,11 @@ N表示文章总量，df(word) 指含有 word 的文章数量。
 
 深层神经网络，纯粹使用全连接层和激活函数来学习句子的表示。
 
-![DNN](../img/in-post/post-2021-09-13/DNN.png)
+![DNN](/img/in-post/post-2021-09-13/DNN.png)
 
 ### RNN
 
 借助循环神经网络的特点，分 timestep 来输入数据，更好的利用了文本的上下文信息。目前常用的 Unit 主要有 LSTM 和 GRU 两种。
 
-![RNN](../img/in-post/post-2021-09-13/RNN.png)
+![RNN](/img/in-post/post-2021-09-13/RNN.png)
 
