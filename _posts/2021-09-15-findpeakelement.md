@@ -5,7 +5,7 @@ subtitle: "二分查找、贪心"
 date: 2021-09-15
 author: "Fiffy"
 header-img: "img/post-bg-2015.jpg"
-tags: ["二分","贪心"]
+tags: ["Leetcode","二分","贪心"]
 ---
 
 # 题目描述
