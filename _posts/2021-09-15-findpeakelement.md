@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "刷题记录-寻找峰值"
-subtitle: "二分查找、贪心"
+subtitle: ""
 date: 2021-09-15
 author: "Fiffy"
 header-img: "img/post-bg-2015.jpg"

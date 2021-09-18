@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "刷题记录-有效的数独"
-subtitle: "哈希表"
+subtitle: ""
 date: 2021-09-17
 author: "Fiffy"
 header-img: "img/post-bg-2015.jpg"

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "刷题记录-单词搜索 II"
-subtitle: "前缀树"
+subtitle: ""
 date: 2021-09-16
 author: "Fiffy"
 header-img: "img/post-bg-2015.jpg"
