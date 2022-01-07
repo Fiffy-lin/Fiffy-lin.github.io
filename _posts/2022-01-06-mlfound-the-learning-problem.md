@@ -8,7 +8,7 @@ header-img: "img/post-bg-2015.jpg"
 tags: ["Course","机器学习基石"]
 ---
 
-### Learning to Machine Learning
+# Learning to Machine Learning
 
 ML: Acquiring skill with experience accumulated/computed from data. Data is upper bound, algorithm is just going to reach that bound.
 
@@ -20,3 +20,22 @@ Key essence of ML:
 
 Model = Algorithm + Hypothesis set
 
+# Why Hypothesis Set
+
+Hypothesis set: Human task, human selects where answer should be in.
+
+Learning algorithm: Computer's automatic job to find optimal answer in hypothesis set.
+
+# ML/DM/AI or Statistics?
+
+- DM: Using data to find something interesting.
+
+  In many senario, those two are quite similar, but traditional DM also focus on efficient computation.
+
+- AI: compute something that can show intelligent behavior.
+
+  ML can realize AI.
+
+- Statistics: Using data to make inference about unknown process.
+
+  Statistics can be used to achieve ML. Traditional statistics also fous on math proving.
