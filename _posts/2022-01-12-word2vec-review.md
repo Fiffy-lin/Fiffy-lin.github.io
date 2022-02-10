@@ -10,7 +10,7 @@ tags: ["Paper"]
 
 # 前言
 
-最近在从头开始看图的一写论文，第一篇就是 DeepWalk. 思想和 word2vec 非常像，用了 Skipgram、层级 Softmax等等东西。回头一想，这些出自 word2vec 的很多理论都还没搞明白，需要再看看。
+最近在从头开始看图的一系列论文，第一篇就是 DeepWalk. 思想和 word2vec 非常像，用了 Skipgram、层级 Softmax 等等东西。回头一想，这些出自 word2vec 的很多理论都还没搞明白，需要再看看。
 
 # 两种训练方式
 
